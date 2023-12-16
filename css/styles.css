@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	padding: 0;
+} 
+.header{
+	background: #FF000F;
+}
+.contaner{
+	max-width: 110px;
+	margin: 0 auto;
+}
+.contaner_header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.nav__list{
+	display: flex;
+	list-style: none;
+}
